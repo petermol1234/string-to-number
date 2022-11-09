@@ -13,7 +13,7 @@ To install with [Composer](https://getcomposer.org/), simply require the
 latest version of this package.
 
 ```bash
-composer require JamesPro/StringToNumber
+composer require james-pro/string-to-number
 ```
 
 Make sure that the autoload file from Composer is loaded.
