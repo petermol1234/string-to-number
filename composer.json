@@ -1,7 +1,9 @@
 {
     "name": "james-pro/string-to-number",
     "description": "Convert strings to numbers/floats in PHP",
+    "homepage": "https://jamespro.nl",
     "type": "library",
+    "license": "proprietary",
     "require": {
         "php": "^8.0"
     },
@@ -12,7 +14,8 @@
     },
     "authors": [
         {
-            "name": "James PRO"
+            "name": "James PRO",
+            "homepage": "https://jamespro.nl"
         }
     ]
 }
